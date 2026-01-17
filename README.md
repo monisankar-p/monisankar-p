@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Monisankar
+### Software Engineer | AI & Backend Developer
 
-<!--
-**monisankar-p/monisankar-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build scalable backend systems and AI-driven applications.
+Focused on clean architecture, performance, and real-world impact.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python, PHP, JavaScript
+- Laravel, React
+- Machine Learning, RAG
+- MySQL, PostgreSQL
+- Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- AI Coding Assistant (RAG-based)
+- LifeDash – Personal Daily Command Center
+- Laravel Drekopf – Enterprise System
+
+## 📚 Currently Learning
+- Advanced ML
+- System Design
+- AI Infrastructure
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/yourname
+- Email: your@email.com
